@@ -8,5 +8,5 @@ Disallow: /js/
 Disallow: /css/
 Disallow: /links/
 
-Sitemap: http://yxxxb.gitee.io/sitemap.xml
-Sitemap: http://yxxxb.gitee.io/baidusitemap.xml
+Sitemap: http://yxxxb.github.io/sitemap.xml
+Sitemap: http://yxxxb.github.io/baidusitemap.xml
