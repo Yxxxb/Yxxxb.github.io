@@ -6,7 +6,6 @@ Allow: /archives/
 Disallow: /img/
 Disallow: /js/
 Disallow: /css/
-Disallow: /links/
 
 Sitemap: https://yxxxb.github.io/sitemap.xml
 Sitemap: https://yxxxb.github.io/baidusitemap.xml
