@@ -1,0 +1,12 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /archives/
+
+Disallow: /img/
+Disallow: /js/
+Disallow: /css/
+Disallow: /links/
+
+Sitemap: http://yxxxb.gitee.io/sitemap.xml
+Sitemap: http://yxxxb.gitee.io/baidusitemap.xml
