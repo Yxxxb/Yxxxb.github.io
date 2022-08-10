@@ -2,7 +2,6 @@
 User-agent: *
 Allow: /
 Allow: /2022
-Allow: /googlef1074d32e8a62f0e.html
 Allow: /archives/
 
 Disallow: /img/
