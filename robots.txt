@@ -9,4 +9,4 @@ Disallow: /js/
 Disallow: /css/
 
 Sitemap: https://yxxxb.github.io/sitemap.xml
-Sitemap: https://yxxxb.github.io/baidusitemap.xml
+Sitemap: https://yxxxb.github.io/baidusitemap.xml 
