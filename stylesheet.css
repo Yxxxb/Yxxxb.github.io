@@ -100,6 +100,23 @@ papertitle {
   font-weight: 700
 }
 
+.paper-authors {
+  color: #6b7280;
+  line-height: 1.4;
+}
+
+.paper-authors a {
+  color: inherit;
+}
+
+.paper-authors a:hover {
+  color: #f09228;
+}
+
+.paper-authors strong {
+  color: #333;
+}
+
 name {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 32px;
@@ -128,4 +145,76 @@ name {
 
 span.highlight {
   background-color: #ffffd0;
+}
+
+.section-heading {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: -8px;
+  border: 0;
+  border-spacing: 0;
+  border-collapse: separate;
+}
+
+.section-heading td {
+  width: 100%;
+  padding: 20px;
+  vertical-align: middle;
+}
+
+.resume-list {
+  width: calc(100% - 40px);
+  margin: 0 20px 18px;
+  border: 0;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+.resume-item td {
+  padding: 12px 0;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.resume-item:last-child td {
+  border-bottom: 0;
+}
+
+.resume-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.resume-title {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.resume-date {
+  color: #555;
+  font-size: 13px;
+  white-space: nowrap;
+}
+
+.resume-details {
+  margin-top: 4px;
+  color: #555;
+  line-height: 1.35;
+}
+
+.services-list {
+  margin-bottom: 50px;
+}
+
+@media (max-width: 600px) {
+  .resume-header {
+    display: block;
+  }
+
+  .resume-date {
+    display: block;
+    margin-top: 4px;
+  }
 }
